@@ -1,0 +1,48 @@
+h2 span {
+  font: Showcard Gothic;
+  height: 200px;
+  position: absolute;
+  width: 850px;
+  left: 440px;
+  top: 110px;
+  transform-origin: bottom center;
+  
+}
+.char1 { transform: rotate(-72deg); }
+.char2 { transform: rotate(-60deg); }
+.char3 { transform: rotate(-48deg); }
+.char4 { transform: rotate(-36deg); }
+.char5 { transform: rotate(-24deg); }
+.char5 { transform: rotate(-23deg); }
+.char6 { transform: rotate(-10deg); }
+.char7{ transform: rotate(2deg); }
+.char8 { transform: rotate(14deg); }
+.char9 { transform: rotate(25deg); }
+.char10 { transform: rotate(37deg); }
+.char11{ transform: rotate(49deg); }
+.char12{ transform: rotate(60deg); }
+.char13{ transform: rotate(72deg); }
+
+
+.img1{
+	float:left;
+}
+.row{
+	float:left;
+}
+.select
+{
+	font-family:Britannic;
+	color:red;
+	margin-top:100px;
+	//padding-left:200px;
+	font-size:40px;
+	margin-left:170px;
+	margin-right:120px;
+	float:left;
+}
+body{
+  margin-top:0px;
+  }
+  
+@CHARSET "ISO-8859-1";@CHARSET "ISO-8859-1";

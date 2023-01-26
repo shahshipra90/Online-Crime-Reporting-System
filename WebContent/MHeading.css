@@ -1,0 +1,46 @@
+.header img {
+  float: left;
+  width: 90px;
+  height: 60px;
+  margin-top: 11px;
+  margin-left: 35px;
+ 
+}
+
+.header h1 {
+  position: relative;
+  top: 18px;
+  left: 180px;
+  padding-top: 4px;
+  padding-left: 470px;
+  color: #fff;
+}
+input{
+	height: 100px;
+}
+header{
+	background:black;
+	height: 80px;
+	margin-top:-25px;
+	margin-left:-8px;
+	margin-right: -7.5px;
+	//width:100%;
+}
+.header h2{
+	margin-left:1175px;
+	margin-top: -38px;
+}
+input{
+	height: 28px;
+	width: 210px;
+}
+
+//body{
+   background: url(...\Desktop\5.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+ -moz-background-size: cover;
+ -o-background-size: cover;
+   background-size: cover;
+}
+
+@CHARSET "ISO-8859-1";

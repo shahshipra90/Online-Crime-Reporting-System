@@ -1,0 +1,61 @@
+body{
+	
+	
+	background-repeat: no-repeat;
+	background-size: cover;
+ 
+}
+
+table{
+	margin-top:80px;
+	
+	color: white;
+	padding-left: 30px;
+	padding-right: 30px;
+    box-shadow: 0 15px 20px 0 rgba(0,0,0,0.32), 0 20px 100px 0 rgba(0,0,0,0.25);
+}
+.fp{
+	font-size: 16px;
+	color:black; 
+	text-decoration: underline;
+	margin-top:250px;
+	margin-left: 90px;
+	
+}
+.sf{
+	font-size: 30px;
+	color:black;
+	margin-left: 100px;
+}
+.button{
+	height:50px;
+	width: 330px;
+	 //border-radius: 4px;
+	 background-color:black ;
+	font-size:25px;
+
+	 color:white;
+}
+
+.pom-agile {
+    padding: 12px 15px;
+    border-bottom:2px solid black;
+    background: #fff;
+    width:300px;	
+}
+.pom-agile:nth-child(1){
+    margin-bottom: 15px;
+}
+.pom-agile input[type="text"], .pom-agile input[type="password"] {
+    outline: none;
+    font-size: .9em;
+    border: none;
+    background: transparent;
+    width: 100%;
+    //color: #000;
+    font-family: 'Roboto', sans-serif;
+    letter-spacing: 1px;
+    height: 20%;
+}
+
+@CHARSET "ISO-8859-1";

@@ -1,0 +1,63 @@
+td
+{
+  color:black;
+  font-size:18px;
+  font-family:Times New Roman;
+  padding-top:20px;
+  padding-bottom: 20px;
+  padding-left:10px;
+  padding-right:10px;
+  
+  }
+
+input{
+	\\border: 2px solid;
+    border-radius: 4px;
+    height:25px;
+}
+textarea{
+	\\border: 2px solid #b35419;
+    border-radius: 4px;
+    width:210px;
+}
+select, option{
+	\\border: 2px solid #b35419;
+    border-radius: 4px;
+    height:32px;
+    
+    
+}
+.radio1{
+	margin-right: -50px;
+	width: 60%;
+    height: 20px;
+    
+}
+.radio2{
+	margin-right: -90px;
+	width: 60%;
+    height: 20px;
+}
+.table1{
+	
+	background-color:#fff;
+	border-radius:30px;
+	margin-top:100px;
+	margin-bottom:50px;
+    margin-left:260px;
+    width:800px;
+    border-left-style: solid;
+    border-left-color: black;
+    border-right-style: solid;
+    border-right-color: black;
+}
+.button{
+	height:40px;
+	width: 100px;
+}
+.button:hover {
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+    
+}
+
+@CHARSET "ISO-8859-1";@CHARSET "ISO-8859-1";

@@ -1,0 +1,86 @@
+h5{
+	text-align: right;
+	background-color:    #e6e600;
+	margin-left: -7.5px;
+	margin-right: -7.5px;
+	margin-top: -20px;
+	height: 35px;
+}
+a:hover{
+	background-color: #BDBDBD;
+}
+a{
+	color: black;
+	text-decoration: none;
+}
+
+
+pre{
+	font-size: 20px;
+	padding-top: 5px;
+	font-family: Times New Roman;
+	color:black;
+}
+
+td{
+	padding-top:20px;
+	font-family:Times New Roman;
+	padding-left:20px;
+	//padding-right:33px;
+	font-size:18px;
+	width:150px;
+}
+table{
+	background-color:white;
+	height:auto;
+    margin-bottom:200px;
+    margin-top: 50px;
+    width:50px;
+       
+}
+.radio1{
+	margin-right: -50px;
+	width: 60%;
+    height: 20px;
+    
+}
+.radio2{
+	margin-right: -42px;
+	width: 60%;
+    height: 20px;
+}
+body{
+	//background-color: #fff;
+}
+input{
+	\\border: 2px solid #b35419;
+    border-radius: 4px;
+    height:18px;
+}
+textarea{
+	\\border: 2px solid #b35419;
+    border-radius: 4px;
+}   
+select{
+
+	\\border: 2px solid #b35419;
+    border-radius: 4px;
+    height:32px;
+}
+	
+    
+
+font{
+	border-radius:10px;
+}
+.button{
+	height:40px;
+	width: 100px;
+}
+.button:hover {
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+    
+}
+
+
+@CHARSET "ISO-8859-1";

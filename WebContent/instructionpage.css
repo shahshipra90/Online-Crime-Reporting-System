@@ -1,0 +1,41 @@
+  .container{
+	background-color:white;
+	
+	border-radius:30px;
+	margin-left:250px;
+	margin-right:200px;
+	margin-top:80px;
+	font-size:25px;
+	padding-left:30px;
+	padding-right:20px;
+    padding-top:20px;
+    padding-bottom:20px;
+    border-left-style:solid;
+    border-right-style:solid;
+   // border-bottom-color:blue;
+    border-left-color: black;
+    border-right-color: black;
+    //border-top-color: blue;	
+	
+}
+td{
+	font-size:20;
+}
+ul{
+    font-size:20;
+}
+input{
+	\\border: 2px solid;
+    border-radius: 4px;
+    height:25px;
+}
+.button{
+	height:40px;
+	width: 130px;
+
+}
+.button:hover {
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+}
+
+@CHARSET "ISO-8859-1";@CHARSET "ISO-8859-1";

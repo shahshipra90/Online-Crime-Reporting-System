@@ -1,0 +1,23 @@
+header{
+	text-align: right;
+	color: white;
+	background-color:    #e6e600;
+	margin-left: -7.5px;
+	margin-right: -7.5px;
+	margin-top: 90px;
+	height: 35px;
+}
+pre{
+	font-size: 20px;
+	padding-top: 5px;
+	font-family: Times New Roman;
+}
+a:hover{
+	background-color: #BDBDBD;
+}
+a{
+	color: white;
+	text-decoration: none;
+}
+
+@CHARSET "ISO-8859-1";
